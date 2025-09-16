@@ -1,4 +1,4 @@
-# SteatlhCoachBuild
+# Stealth
 
 Go to the Releases page
 Download the latest release ZIP file
